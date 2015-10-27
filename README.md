@@ -1,4 +1,3 @@
 # softnews
-更新登录注册的前台页面
-
-第一步编写了登录 注册的前台的界面基础程序
+由于上传代码方便， 软件工程项目已经上传到另一位置：https://github.com/softwareIn2015/softnews.git
+(同一个小组的不同仓库)
